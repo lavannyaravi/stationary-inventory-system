@@ -1,0 +1,88 @@
+OK logic also
+but now the system is based on room
+room is primary
+if want to change room depend on seater
+sorry typo
+database must change
+u dont get it rite
+yea
+ok 
+its like now
+seater depend on room
+where user doesnt hv to key in seater or choose
+one choose room the seater also auto populate
+u want like choose seater and room auto populate--yes ne maybe show in the dropdownlist the possible output'like if they choose 2 seater show all the 2 seater rooms in dropdownlist
+
+u know for this
+hv to redo all 200 lines of code again
+:O
+aiyayooooo
+im using ajax to find seater and to populate in fields after select room like this
+all those ajax
+and wrote php in javascript to get the students name for the seater
+
+so if wana chge like urs
+must find seater plus match with the room for that number of seater is empty or nt
+ok wat ur saying logic
+but its not a user journey problem in this situation
+bcz when their click room ny the seater populate, user can easily change
+again u might say if alot of room mean hassle rite
+yes
+what if like this, when admin key in room no, they key in with the level info and seater
+meaning now for room no they ny key in no right "110"
+if they key in like this "L1-110 (2 seater)" is this possible?
+ok wait
+ne if change the data type for room_no in the database ah? why ar?
+bcs that day i tried key in like this 'L1-110'
+it didnt masuk database
+maybe bcs its in int kot?? nt sure
+wait ar is this ok
+yes very much ok ne :D and then one more thing ne,, is it possible if the std select just one roommate if they choose 2 seater.....meaning if they choose seater of 4, they can only select 3 roommates ny.wait ok?
+ahhh okay ne i did something that day it showed error hehehe
+ yeahtqt hv to be careful
+ cz php inside javascirpt ok ne tqmuch
+ ne this is lavannya ..u can change the database name ah :(  wbgic s i tried there are so mnyy error
+ wat u wana change
+ which one is this
+ hostel lavanya is hostel no stationary wait ah i send u in watsap
+ which part u wana change for stationary n staff meaning just change the name only..ohh tat part will be hassle u know
+ haha u hv to change every single page the name occur
+ will ur lect check db? yaa or atleast just change  for statnry only cn ah?change where arshow me i send dy
+ i dont understand ur pic
+ just show me here
+ the labels ne meaning itemname to itemname , book no to stationryno etc..u wana chnge the label isit yaaa
+ yeah this will be hassle
+ 1mistake alot of errorhaha true:(ok
+ if can dont let ur lect see db
+ haha
+ will take some time to change one column in db and go check in whole pages and change there
+ actually there is a way to check in all the pages
+ using this sublime
+ lets say itemname
+ CTRL + SHift +F
+ BUT U GOTTA BE VERY CAREFUL
+ AND THIS WILL TAKE ALOT OF TIME THO
+ its ok ne i will do that
+ hehe and one more thing..
+ OK BACK
+ UP FIRST ORIGINAL COPY
+ THEN DO IT
+ CZ LATER IF U CRY
+ GOT BACKUP 
+ anne wait dont hilang another thing for admin there once there log in its automatically go to change password right
+ so can u change  example it goes to a welcome page then only choose change pass 
+IS THIS FOR ADMIN OR STAFF ?admin ne staff all okLOING ADMIN ah?
+ehh soryy for staff ..confuse dy
+GOT 68 FILE TO CHANGE HUHU
+anne or do u hv any idea to make it simple
+bcs right u see ah when the staff login everytime the update pass will appear right?
+so tats y
+well i thought tat dashboard page is actually for user to update profile also
+and its empty
+so chnging password is common to be in dashboard
+like setting
+maybe if u think dashboard as sumting different then should bring another meanign then
+aiyayooo :( so there is no other way ist can can
+hv to add another page and add in that 68 pages
+haha
+wait
